@@ -27,7 +27,12 @@
   url('fonts/MyriadProRegular.ttf') format('truetype'),
   url('fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
 }
-
+$general_font_text: 'Open Sans';
+$general_font_caption: 'Source Sans Pro';
+$active_color: #19bd9a;
+$caption_color: #333b46;
+$text_color: #81868e;
+$back_color: #f3f3f3;
 body {
   box-sizing: border-box;
 }
@@ -277,6 +282,7 @@ a:focus, a:hover {
   }
   .first {
     background-image: url("images/img-1.png");
+
     &:after {
       content: "+";
     }
@@ -302,23 +308,28 @@ a:focus, a:hover {
   line-height: 1.25;
   background-image: url("images/img-3.png");
   background-repeat: repeat-x;
-  min-height: 113px;
+
+
+  height: 110px;
+  padding-top: 35px;
 }
 
 .p-2 p {
-  padding-top: 40px;
+  color: white;
+  margin-top: 10px;
 }
 
-.p-2 button {
-  border-radius: 30px;
-  border: 1px solid #ffffff;
-  background-color: transparent;
+.p-2 a {
+  display: block;
   width: 140px;
-  padding-top: 14px;
-  padding-bottom: 12px;
+  height: 35px;
+  border: 1px solid white;
+  border-radius: 16px;
   text-align: center;
-  text-decoration: none;
-  //не получается отцентровать
+  line-height: 37px;
+  font-family: 'OpenSans', sans-serif;
+  font-size: 16px;
+  color: white;
 }
 
 .p-2 button a {
@@ -332,6 +343,7 @@ a:focus, a:hover {
                          //section-5
 .section-5 {
   padding-bottom: 137px;
+  background-color: #f3f3f3;
 }
 
 .section-5 {
@@ -481,6 +493,15 @@ a:focus, a:hover {
   color: #81868e;
   text-align: center;
   padding-left: 20px;
+}
+.progress {
+  .text-center {
+    text-align: left;
+  }
+
+  p {
+     margin: 0;
+  }
 }
 
 .progress.green .progress-left .progress-bar {

@@ -228,20 +228,24 @@ a:focus, a:hover {
   line-height: 1.25;
   background-image: url("images/img-3.png");
   background-repeat: repeat-x;
-  min-height: 113px; }
+  height: 110px;
+  padding-top: 35px; }
 
 .p-2 p {
-  padding-top: 40px; }
+  color: white;
+  margin-top: 10px; }
 
-.p-2 button {
-  border-radius: 30px;
-  border: 1px solid #ffffff;
-  background-color: transparent;
+.p-2 a {
+  display: block;
   width: 140px;
-  padding-top: 14px;
-  padding-bottom: 12px;
+  height: 35px;
+  border: 1px solid white;
+  border-radius: 16px;
   text-align: center;
-  text-decoration: none; }
+  line-height: 37px;
+  font-family: 'OpenSans', sans-serif;
+  font-size: 16px;
+  color: white; }
 
 .p-2 button a {
   font-size: 16px;
@@ -251,7 +255,8 @@ a:focus, a:hover {
   font-weight: normal; }
 
 .section-5 {
-  padding-bottom: 137px; }
+  padding-bottom: 137px;
+  background-color: #f3f3f3; }
 
 .section-5 h2 {
   text-align: center;
@@ -380,6 +385,11 @@ a:focus, a:hover {
   color: #81868e;
   text-align: center;
   padding-left: 20px; }
+
+.progress .text-center {
+  text-align: left; }
+.progress p {
+  margin: 0; }
 
 .progress.green .progress-left .progress-bar {
   animation: loading-5 1.2s linear forwards 1.8s; }
