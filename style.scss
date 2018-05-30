@@ -282,19 +282,24 @@ a:focus, a:hover {
   }
   .first {
     background-image: url("images/img-1.png");
-
+    background-attachment: scroll;
+    background-size: cover;
     &:after {
       content: "+";
     }
   }
   .two {
     background-image: url("images/img-1.png");
+    background-attachment: scroll;
+    background-size: cover;
     &:after {
       content: "VINTAGE";
     }
   }
   .three {
     background-image: url("images/img-2.png");
+    background-attachment: scroll;
+    background-size: cover;
     &:after {
       content: "Branding";
     }
@@ -308,8 +313,6 @@ a:focus, a:hover {
   line-height: 1.25;
   background-image: url("images/img-3.png");
   background-repeat: repeat-x;
-
-
   height: 110px;
   padding-top: 35px;
 }
@@ -494,13 +497,17 @@ a:focus, a:hover {
   text-align: center;
   padding-left: 20px;
 }
-.progress {
-  .text-center {
-    text-align: left;
-  }
-
-  p {
-     margin: 0;
+.circle-progress-bar p {
+    padding-top: 30px;
+    text-align: center;
+    color:#90959b;
+    font-size: 16px;
+    position: absolute;
+    left: 20%;
+                //не удается отцентровать подписи внизу progress bara???????
+  @media screen and (max-width: 768px) {
+    position: absolute;
+    bottom: -33px;
   }
 }
 
@@ -600,7 +607,11 @@ a:focus, a:hover {
     text-transform: uppercase;
     line-height: 1.786;
   }
-  .desktop {
+}
+.desktop  {
+    margin-top: -120px;
+  margin-left:
+          60px;
+
     //? не получается поднять вверх как в макете
   }
-}

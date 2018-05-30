@@ -209,15 +209,21 @@ a:focus, a:hover {
   .section-4 .hov:hover:after {
     display: none; }
 .section-4 .first {
-  background-image: url("images/img-1.png"); }
+  background-image: url("images/img-1.png");
+  background-attachment: scroll;
+  background-size: cover; }
   .section-4 .first:after {
     content: "+"; }
 .section-4 .two {
-  background-image: url("images/img-1.png"); }
+  background-image: url("images/img-1.png");
+  background-attachment: scroll;
+  background-size: cover; }
   .section-4 .two:after {
     content: "VINTAGE"; }
 .section-4 .three {
-  background-image: url("images/img-2.png"); }
+  background-image: url("images/img-2.png");
+  background-attachment: scroll;
+  background-size: cover; }
   .section-4 .three:after {
     content: "Branding"; }
 
@@ -386,10 +392,17 @@ a:focus, a:hover {
   text-align: center;
   padding-left: 20px; }
 
-.progress .text-center {
-  text-align: left; }
-.progress p {
-  margin: 0; }
+.circle-progress-bar p {
+  padding-top: 30px;
+  text-align: center;
+  color: #90959b;
+  font-size: 16px;
+  position: absolute;
+  left: 20%; }
+  @media screen and (max-width: 768px) {
+    .circle-progress-bar p {
+      position: absolute;
+      bottom: -33px; } }
 
 .progress.green .progress-left .progress-bar {
   animation: loading-5 1.2s linear forwards 1.8s; }
@@ -458,5 +471,9 @@ a:focus, a:hover {
   color: #b2b3b3;
   text-transform: uppercase;
   line-height: 1.786; }
+
+.desktop {
+  margin-top: -120px;
+  margin-left: 60px; }
 
 /*# sourceMappingURL=style.css.map */
