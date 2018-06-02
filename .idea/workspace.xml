@@ -2,6 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1582acd-6566-483c-ac9d-477750e76c56" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/0010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/0011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/0012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Bouncy-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ava_man.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-5.jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-6.jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/desktop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/desktop_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/desktop_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/desktop_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/images/desktop_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/img_block.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/img_block2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/img_block3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/man.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/desktop.png" afterPath="$PROJECT_DIR$/images/desktop.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -18,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="130" column="33" lean-forward="true" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
+            <state relative-caret-position="415">
+              <caret line="276" column="50" lean-forward="false" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -34,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3326">
-              <caret line="513" column="18" lean-forward="true" selection-start-line="513" selection-start-column="18" selection-end-line="513" selection-end-column="18" />
+            <state relative-caret-position="208">
+              <caret line="719" column="5" lean-forward="false" selection-start-line="719" selection-start-column="5" selection-end-line="719" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -47,8 +74,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="360" column="112" lean-forward="true" selection-start-line="360" selection-start-column="112" selection-end-line="360" selection-end-column="112" />
+            <state relative-caret-position="-2686">
+              <caret line="360" column="112" lean-forward="false" selection-start-line="360" selection-start-column="112" selection-end-line="360" selection-end-column="112" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1527624562890" expanded="true" signature="640:744" ph="..." />
@@ -82,8 +109,8 @@
       <file leaf-file-name="TV_Galery.scss" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/CSS/TV_Galery.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1870">
-              <caret line="110" column="9" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="113" selection-end-column="3" />
+            <state relative-caret-position="504">
+              <caret line="107" column="17" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="113" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -139,8 +166,8 @@
         <option value="$PROJECT_DIR$/../bootstrap/index.html" />
         <option value="D:/Загрузки/Final-Project-master/index.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_GammaGallery (1).zip/GammaGallery/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -173,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -195,7 +223,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +273,8 @@
       <workItem from="1527614123139" duration="20060000" />
       <workItem from="1527769582574" duration="1721000" />
       <workItem from="1527793559139" duration="1252000" />
-      <workItem from="1527881507566" duration="3726000" />
+      <workItem from="1527881507566" duration="3754000" />
+      <workItem from="1527966545583" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="работа над ошибками 1й части">
       <created>1527625674927</created>
@@ -262,11 +290,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527708842318</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="работа над ошибками 1й части 2">
+      <created>1527885263490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527885263490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80154000" />
+    <option name="totallyTimeSpent" value="82200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -306,14 +341,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="116" column="13" lean-forward="false" selection-start-line="116" selection-start-column="13" selection-end-line="116" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fonts/MyriadProRegular.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -563,14 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Загрузки/Final-Project-master/CSS/TV_Galery.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" column="9" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="113" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/img-3.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -591,10 +610,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/desktop.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://D:/Загрузки/Final-Project-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="360" column="112" lean-forward="true" selection-start-line="360" selection-start-column="112" selection-end-line="360" selection-end-column="112" />
+        <state relative-caret-position="-2686">
+          <caret line="360" column="112" lean-forward="false" selection-start-line="360" selection-start-column="112" selection-end-line="360" selection-end-column="112" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1527624562890" expanded="true" signature="640:744" ph="..." />
@@ -604,10 +628,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Загрузки/Final-Project-master/CSS/TV_Galery.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="107" column="17" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="113" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="719" column="5" lean-forward="false" selection-start-line="719" selection-start-column="5" selection-end-line="719" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="130" column="33" lean-forward="true" selection-start-line="130" selection-start-column="33" selection-end-line="130" selection-end-column="33" />
+        <state relative-caret-position="415">
+          <caret line="276" column="50" lean-forward="false" selection-start-line="276" selection-start-column="50" selection-end-line="276" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -615,14 +655,6 @@
             <element signature="n#style#0;n#strong#0;n#p#1;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strong#1;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3326">
-          <caret line="513" column="18" lean-forward="true" selection-start-line="513" selection-start-column="18" selection-end-line="513" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
