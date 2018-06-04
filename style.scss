@@ -618,7 +618,7 @@ a:focus, a:hover {
   }
 
 
-                            //section 7 galery
+                            //SECTION 7 GALLERY
 .section-7 {
   padding-top: 80px;
   padding-bottom: 100px;
@@ -709,10 +709,13 @@ a:focus, a:hover {
       border-radius: 16px;
       text-align: center;
     }
-  }
 
+  }
+.container .gallery{
+
+}
 .mosaicflow__item {
-  padding: 3px;
+  padding: 5px;
 }
 
 .mosaicflow__column {
@@ -723,86 +726,59 @@ a:focus, a:hover {
   display: block;
   width: 100%;
   height: auto;
-  padding: 4px;
   background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 4px;
 }
 
 .mosaicflow__item img:hover {
   opacity: 0.6;
   filter: alpha(opacity=60);
 }
-//.galery {
-//  padding: 80px 0 100px;
-//  background-color: #f3f3f3;
-//  h3 {
-//    color: #333b46;
-//    margin-bottom: 45px;
-//  }
-//  p {
-//    color: #81868e;
-//    //max-width: 467px;
-//    //margin: auto;
-//    margin-bottom: 110px;
-//  }
-//  .tabes {
-//    display: block;
-//    //max-width: 630px;
-//    //margin: auto;
-//    margin-bottom: 60px;
-//    li {
-//      display: inline;
-//      a {
-//        display: inline-block;
-//        font-size: 16px;
-//        font-family: 'SourceSansPro', sans-serif;
-//        margin-left: 15px;
-//        margin-right: 15px;
-//        padding-bottom: 15px;
-//        border-bottom: 2px solid #f3f3f3;
-//        position: relative;
-//        &:hover {
-//          //border-bottom: 2px solid #19bd9a;
-//          color: #333b46;
-//          text-transform: none;
-//          text-decoration: none;
-//          &:after {
-//            position: absolute;
-//            top: 31px;
-//            left: 28%;
-//            width: 50%;
-//            border-bottom: 2px solid #19bd9a;
-//            content: ""
-//          }
-//        }
-//      }
-//
-//    }
-//    .active {
-//      a {
-//        display: inline-block;
-//        font-size: 16px;
-//        font-family: 'SourceSansPro', sans-serif;
-//        margin-left: 15px;
-//        margin-right: 15px;
-//        padding-bottom: 15px;
-//        border-bottom: 2px solid #f3f3f3;
-//        position: relative;
-//        color: #333b46;
-//        text-decoration: none;
-//        &:after {
-//          position: absolute;
-//          top: 31px;
-//          left: 28%;
-//          width: 50%;
-//          border-bottom: 2px solid #19bd9a;
-//          content: ""
-//        }
-//      }
-//    }
-//  }
-//}
+.start_project{
+  background-image: url(images/bg-4.png);
+  background-size: cover;
+  position: relative;
+  margin-top: 30px;
+  padding-bottom: 57px;
+  padding-top: 57px;
+  min-height: 200px;
+
+}
+.start_project {
+  p {
+    font-size: 20px;
+    font-family: 'OpenSans', sans-serif;
+    color: #ffffff;
+    line-height: 1.25;
+    padding-bottom: 30px;
+    margin: 0;
+  }
+}
+.start_project {
+  button{
+    border-radius: 30px;
+    border: 1px solid #ffffff;
+    background: none;
+    width: 140px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    position: absolute;
+    left: 45%;
+
+    //не могу центровать кнопку
+  }
+   a{
+    color: #ffffff;
+    text-align: center;
+  }
+}
+
+
+
+
 // $general_font_text: 'Open Sans';
 //$general_font_caption: 'Source Sans Pro';
 //$active_color: #19bd9a;
