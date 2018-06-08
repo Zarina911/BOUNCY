@@ -910,13 +910,13 @@ h1 {
 
 .carousel_3 {
   background-color: #ffffff;
-  padding: 60px 100px;
-padding-bottom: 100px;
+  padding: 60px 100px 100px 100px;
 }
 
 
-
 //SECTION 11
+
+
 .section-11 {
   background-image: url(images/bg-6.png);
   background-size: cover;
@@ -932,12 +932,14 @@ padding-bottom: 100px;
     line-height: 0.6;
     text-align: left;
     margin-bottom: 35px;
+    margin-left: 90px;
   }
   .latest {
     font-size: 14px;
     font-family: 'OpenSans', sans-serif;
     line-height: 1.786;
     text-align: left;
+    margin-left: 90px;
   }
 }
 
@@ -1000,6 +1002,108 @@ padding-bottom: 100px;
     text-align: center;
   }
 }
+
+//SECTION 12
+
+.section-12 {
+  padding-top: 80px;
+  padding-bottom: 100px;
+  background-color: #f3f3f3;
+}
+
+.section-12 {
+  .price {
+    font-size: 20px;
+    font-family: 'SourceSansPro', sans-serif;
+    color: #333b46;
+    text-transform: uppercase;
+    line-height: 0.6;
+    padding-bottom: 40px;
+    text-align: center;
+  }
+
+  .p_price {
+    font-size: 16px;
+    font-family: 'OpenSans', sans-serif;
+    color: #81868e;
+    line-height: 1.75;
+    padding-bottom: 60px;
+    text-align: center;
+  }
+}
+.our_price ul>li{
+  list-style: none;
+  width: 235px;
+  margin: 0;
+  background-color: #ffffff;
+}
+.our_price{
+  .titles{
+    padding: 27px 60px;
+    background-color: #19bd9a;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'OpenSans', sans-serif;
+    text-align: center;
+    margin: 0;
+  }
+  .percent{
+    font-size: 33px;
+    font-family: 'SourceSansPro', sans-serif;
+    color: #19bd9a;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 70px;
+
+  }
+  .per_month{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'OpenSans', sans-serif;
+    color: #81868e;
+    line-height: 1.4;
+    padding-bottom: 108px;
+
+  }
+  a{
+    padding: 30px 60px;
+    background-color: #19bd9a;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'OpenSans', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    margin: 0;
+    width: 235px;
+  }
+  a::after{
+    content: ">";
+    font-size: 20px;
+    margin-left: 10px;
+  }
+}
+.column_2 {
+  li:first-child{
+    padding: 35px;
+    font-size: 14px;
+    font-family: 'OpenSans', sans-serif;
+    color:  #81868e;
+    line-height: 2.2;
+  }
+  li:last-child{
+    padding-top: 30px;
+  }
+}
+
+
+
+
+
+
+
+
 
 // $general_font_text: 'Open Sans';
 //$general_font_caption: 'Source Sans Pro';
