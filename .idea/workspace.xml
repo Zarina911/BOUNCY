@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="725">
-              <caret line="596" column="42" lean-forward="false" selection-start-line="596" selection-start-column="42" selection-end-line="596" selection-end-column="42" />
+              <caret line="605" column="18" lean-forward="true" selection-start-line="605" selection-start-column="18" selection-end-line="605" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -62,8 +62,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="1097" column="1" lean-forward="true" selection-start-line="1097" selection-start-column="1" selection-end-line="1097" selection-end-column="1" />
+            <state relative-caret-position="334">
+              <caret line="1138" column="14" lean-forward="false" selection-start-line="1138" selection-start-column="14" selection-end-line="1138" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -72,24 +72,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1921">
-              <caret line="809" column="56" lean-forward="false" selection-start-line="767" selection-start-column="7" selection-end-line="825" selection-end-column="14" />
+            <state relative-caret-position="16218">
+              <caret line="954" column="22" lean-forward="false" selection-start-line="950" selection-start-column="8" selection-end-line="957" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1528229425646" expanded="true" signature="640:744" ph="..." />
                 <marker date="1528229425646" expanded="true" signature="647:677" ph="{...}" />
                 <marker date="1528229425646" expanded="true" signature="706:737" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Costants.scss" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Загрузки/Final-Project-master/CSS/Costants.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -107,7 +97,7 @@
       <file leaf-file-name="first_carousel_item.scss" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/CSS/first_carousel_item.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
+            <state relative-caret-position="833">
               <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
               <folding />
             </state>
@@ -134,10 +124,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="last_blocks_footer.scss" pinned="false" current-in-tab="false">
+        <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../bootstrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="2516">
               <caret line="148" column="46" lean-forward="false" selection-start-line="148" selection-start-column="46" selection-end-line="148" selection-end-column="46" />
               <folding />
             </state>
@@ -147,7 +147,7 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../bootstrap/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2156">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -175,8 +175,8 @@
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="D:/Загрузки/Final-Project-master/index.html" />
         <option value="$PROJECT_DIR$/../bootstrap/index.html" />
-        <option value="$PROJECT_DIR$/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.scss" />
       </list>
     </option>
   </component>
@@ -209,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -216,6 +217,11 @@
             <path>
               <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
               <item name="BOUNCY" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOUNCY" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
@@ -237,7 +243,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,7 +302,10 @@
       <workItem from="1528176402472" duration="9670000" />
       <workItem from="1528227254657" duration="2464000" />
       <workItem from="1528369691083" duration="11559000" />
-      <workItem from="1528485454747" duration="6162000" />
+      <workItem from="1528485454747" duration="6219000" />
+      <workItem from="1528571505740" duration="933000" />
+      <workItem from="1528572874541" duration="2085000" />
+      <workItem from="1528659482054" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="работа над ошибками 1й части">
       <created>1527625674927</created>
@@ -355,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528404273431</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add 3 column, section 12...">
+      <created>1528492050236</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1528492050237</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126973000" />
+    <option name="totallyTimeSpent" value="130291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -396,53 +411,14 @@
     <MESSAGE value="add gallery" />
     <MESSAGE value="add gallery+button start project" />
     <MESSAGE value="add carousel..." />
-    <option name="LAST_COMMIT_MESSAGE" value="add carousel..." />
+    <MESSAGE value="add 3 column, section 12..." />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3 column, section 12..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#1;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#1;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#1;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#1;n#p#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#p#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#1;n#p#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#section#9;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#1;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#1;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#1;n#span#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3230">
@@ -598,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Загрузки/Final-Project-master/CSS/header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -688,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,26 +686,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Загрузки/Final-Project-master/CSS/second-carousel.scss">
+    <entry file="file://D:/Загрузки/Final-Project-master/CSS/first_carousel_item.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="98" column="16" lean-forward="false" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="16" />
+        <state relative-caret-position="833">
+          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Загрузки/Final-Project-master/CSS/first_carousel_item.scss">
+    <entry file="file://$PROJECT_DIR$/../bootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="49" column="23" lean-forward="false" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="2516">
+          <caret line="148" column="46" lean-forward="false" selection-start-line="148" selection-start-column="46" selection-end-line="148" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://D:/Загрузки/Final-Project-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1921">
-          <caret line="809" column="56" lean-forward="false" selection-start-line="767" selection-start-column="7" selection-end-line="825" selection-end-column="14" />
+        <state relative-caret-position="16218">
+          <caret line="954" column="22" lean-forward="false" selection-start-line="950" selection-start-column="8" selection-end-line="957" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1528229425646" expanded="true" signature="640:744" ph="..." />
@@ -747,18 +715,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../bootstrap/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="148" column="46" lean-forward="false" selection-start-line="148" selection-start-column="46" selection-end-line="148" selection-end-column="46" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/bg-7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../bootstrap/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2156">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Загрузки/Final-Project-master/CSS/second-carousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="98" column="16" lean-forward="false" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -766,7 +747,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
-          <caret line="596" column="42" lean-forward="false" selection-start-line="596" selection-start-column="42" selection-end-line="596" selection-end-column="42" />
+          <caret line="605" column="18" lean-forward="true" selection-start-line="605" selection-start-column="18" selection-end-line="605" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -805,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="1097" column="1" lean-forward="true" selection-start-line="1097" selection-start-column="1" selection-end-line="1097" selection-end-column="1" />
+        <state relative-caret-position="334">
+          <caret line="1138" column="14" lean-forward="false" selection-start-line="1138" selection-start-column="14" selection-end-line="1138" selection-end-column="14" />
           <folding />
         </state>
       </provider>

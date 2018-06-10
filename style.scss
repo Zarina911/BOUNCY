@@ -1031,11 +1031,15 @@ h1 {
     text-align: center;
   }
 }
+.our_price {
+  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.004);
+}
 .our_price ul>li{
   list-style: none;
   width: 235px;
   margin: 0;
   background-color: #ffffff;
+
 }
 .our_price{
   .titles{
@@ -1091,15 +1095,64 @@ h1 {
     font-family: 'OpenSans', sans-serif;
     color:  #81868e;
     line-height: 2.2;
+    width: 238px;
   }
   li:last-child{
     padding-top: 30px;
   }
 }
 
+//SECTION 13
 
-
-
+.section-13{
+  background-image: url(images/bg-7.png);
+  background-size: cover;
+  padding-bottom: 100px;
+  padding-top: 80px;
+}
+.section-13 {
+  .subscribe {
+    font-size: 20px;
+    font-family: 'SourceSansPro', sans-serif;
+    text-transform: uppercase;
+    line-height: 0.6;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #ffffff;
+  }
+  .p_subscribe {
+    font-size: 14px;
+    font-family: 'OpenSans', sans-serif;
+    line-height: 1.786;
+    text-align: center;
+    color: #73787f;
+    margin-bottom: 60px;
+  }
+}
+.form{
+  display: inline-block;
+  margin: 0 auto;
+}
+.form_email {
+  .personal_form {
+    width: 360px;
+    height: 41px;
+    border-radius: 0;
+    background-color: transparent;
+    border: 1px solid #81868e;
+    margin: auto;
+  }
+  button {
+    display: inline-block;
+    width: 150px;
+    height: 40px;
+    border-radius: 0;
+    box-shadow: none;
+    background-color:  #19bd9a;
+    color: white;
+    margin-left: 10px;
+  }
+}
 
 
 
