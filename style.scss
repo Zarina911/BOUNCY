@@ -120,7 +120,8 @@ header {
   background: no-repeat bottom;
 }
 
-//section-2
+//SECTION 2
+
 .about-us {
   padding-top: 110px;
   padding-bottom: 100px;
@@ -162,7 +163,8 @@ h1 {
   }
 }
 
-//section-3
+//SECTION 3
+
 .section-3 {
   background-color: #f3f3f3;
 }
@@ -230,7 +232,8 @@ h1 {
   }
 }
 
-//.section-4
+//SECTION 4
+
 .section-4 {
   h2 {
     text-align: center;
@@ -340,7 +343,8 @@ h1 {
   font-weight: normal;
 }
 
-//section-5
+//SECTION 5
+
 .section-5 {
   padding-bottom: 137px;
   background-color: #f3f3f3;
@@ -578,7 +582,8 @@ h1 {
   }
 }
 
-//section-6
+//SECTION 6
+
 .section-6 {
   background-image: url(images/bg-2.png);
   background-size: cover;
@@ -1109,6 +1114,7 @@ h1 {
   background-size: cover;
   padding-bottom: 100px;
   padding-top: 80px;
+  text-align: center;
 }
 .section-13 {
   .subscribe {
@@ -1140,23 +1146,70 @@ h1 {
     border-radius: 0;
     background-color: transparent;
     border: 1px solid #81868e;
-    margin: auto;
   }
   button {
     display: inline-block;
     width: 150px;
-    height: 40px;
+    height: 41px;
     border-radius: 0;
     box-shadow: none;
     background-color:  #19bd9a;
     color: white;
     margin-left: 10px;
+    margin-top: -3px;
   }
 }
 
+//SECTION 14
 
+.section-14 {
+  background-color: #f3f3f3;
+  padding-bottom: 100px;
+  padding-top: 80px;
+  text-align: center;
+}
+.section-14 {
+  .h3_contact {
+    font-size: 20px;
+    font-family: 'SourceSansPro', sans-serif;
+    text-transform: uppercase;
+    line-height: 0.6;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #333b46;
+  }
+  .p_contact {
+    font-size: 14px;
+    font-family: 'OpenSans', sans-serif;
+    line-height: 1.786;
+    text-align: center;
+    color: #73787f;
+    margin-bottom: 60px;
+  }
+}
+.contact{
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'OpenSans', sans-serif;
+  line-height: 1.5;
 
+}
+.contact{
 
+  h5{
+    font-size: 16px;
+    color: #464646;
+    padding-top: 30px;
+    padding-bottom: 25px;
+  }
+span{
+  font-size: 14px;
+}
+
+}
+.white1{
+  background-color: #ffffff;
+}
 
 // $general_font_text: 'Open Sans';
 //$general_font_caption: 'Source Sans Pro';
