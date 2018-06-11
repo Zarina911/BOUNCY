@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1582acd-6566-483c-ac9d-477750e76c56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/office.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/phone.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css.map" afterPath="$PROJECT_DIR$/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="776">
-              <caret line="649" column="0" lean-forward="false" selection-start-line="649" selection-start-column="0" selection-end-line="649" selection-end-column="0" />
+            <state relative-caret-position="-102">
+              <caret line="84" column="53" lean-forward="true" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="58" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -66,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="674">
-              <caret line="1228" column="1" lean-forward="true" selection-start-line="1228" selection-start-column="1" selection-end-line="1228" selection-end-column="1" />
+              <caret line="1228" column="1" lean-forward="false" selection-start-line="1228" selection-start-column="1" selection-end-line="1228" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -76,7 +69,7 @@
         <entry file="file://D:/Загрузки/Final-Project-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-221">
-              <caret line="979" column="35" lean-forward="true" selection-start-line="979" selection-start-column="32" selection-end-line="979" selection-end-column="37" />
+              <caret line="979" column="35" lean-forward="false" selection-start-line="979" selection-start-column="32" selection-end-line="979" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1528229425646" expanded="true" signature="640:744" ph="..." />
@@ -111,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/../bootstrap/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="202" column="25" lean-forward="true" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
+              <caret line="202" column="25" lean-forward="false" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -180,11 +173,6 @@
             <path>
               <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
               <item name="BOUNCY" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BOUNCY" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
@@ -269,7 +257,7 @@
       <workItem from="1528571505740" duration="933000" />
       <workItem from="1528572874541" duration="2085000" />
       <workItem from="1528659482054" duration="1333000" />
-      <workItem from="1528660930862" duration="5473000" />
+      <workItem from="1528660930862" duration="5815000" />
     </task>
     <task id="LOCAL-00001" summary="работа над ошибками 1й части">
       <created>1527625674927</created>
@@ -348,11 +336,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528663873034</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add  section 14...">
+      <created>1528719539142</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528719539142</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136854000" />
+    <option name="totallyTimeSpent" value="137196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -392,7 +387,8 @@
     <MESSAGE value="add 3 column, section 12..." />
     <MESSAGE value="add  section 13..." />
     <MESSAGE value="add  section 13+..." />
-    <option name="LAST_COMMIT_MESSAGE" value="add  section 13+..." />
+    <MESSAGE value="add  section 14..." />
+    <option name="LAST_COMMIT_MESSAGE" value="add  section 14..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -630,7 +626,7 @@
     <entry file="file://$PROJECT_DIR$/../bootstrap/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="202" column="25" lean-forward="true" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
+          <caret line="202" column="25" lean-forward="false" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -638,7 +634,7 @@
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="674">
-          <caret line="1228" column="1" lean-forward="true" selection-start-line="1228" selection-start-column="1" selection-end-line="1228" selection-end-column="1" />
+          <caret line="1228" column="1" lean-forward="false" selection-start-line="1228" selection-start-column="1" selection-end-line="1228" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -646,7 +642,7 @@
     <entry file="file://D:/Загрузки/Final-Project-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-221">
-          <caret line="979" column="35" lean-forward="true" selection-start-line="979" selection-start-column="32" selection-end-line="979" selection-end-column="37" />
+          <caret line="979" column="35" lean-forward="false" selection-start-line="979" selection-start-column="32" selection-end-line="979" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1528229425646" expanded="true" signature="640:744" ph="..." />
@@ -658,8 +654,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="649" column="0" lean-forward="false" selection-start-line="649" selection-start-column="0" selection-end-line="649" selection-end-column="0" />
+        <state relative-caret-position="-102">
+          <caret line="84" column="53" lean-forward="true" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="58" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
