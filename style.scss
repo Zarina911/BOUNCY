@@ -1168,6 +1168,7 @@ h1 {
   padding-top: 80px;
   text-align: center;
 }
+
 .section-14 {
   .h3_contact {
     font-size: 20px;
@@ -1187,28 +1188,44 @@ h1 {
     margin-bottom: 60px;
   }
 }
-.contact{
+
+.contact {
   text-align: center;
   text-transform: uppercase;
   font-family: 'OpenSans', sans-serif;
   line-height: 1.5;
-
+  color: #81868e;
+  font-size: 16px;
+  position: relative;
 }
-.contact{
 
-  h5{
+.contact {
+
+  h5 {
     font-size: 16px;
     color: #464646;
     padding-top: 30px;
     padding-bottom: 25px;
+    margin: 0;
   }
-span{
-  font-size: 14px;
-}
+  span {
+    font-size: 14px;
+  }
+
+  .left {
+    background-color: #ffffff;
+    width: 287px;
+    padding-bottom: 30px;
+  }
 
 }
-.white1{
-  background-color: #ffffff;
+.left{
+  a{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+
+  }
 }
 
 // $general_font_text: 'Open Sans';
