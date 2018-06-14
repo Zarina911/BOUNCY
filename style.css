@@ -982,4 +982,73 @@ h1 {
   font-family: 'OpenSans', sans-serif;
   text-transform: uppercase; }
 
+.map {
+  overflow: hidden;
+  position: relative;
+  height: 500px; }
+
+iframe {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%; }
+
+.section-17 {
+  background-color: #f3f3f3;
+  padding-bottom: 90px;
+  padding-top: 80px;
+  text-align: center; }
+
+.section-17 .img_footer {
+  text-align: center;
+  margin-bottom: 25px; }
+.section-17 .copyright {
+  font-size: 14px;
+  font-family: 'OpenSans', sans-serif;
+  line-height: 1.786;
+  text-align: center;
+  color: #73787f;
+  margin-bottom: 35px; }
+.section-17 .social a {
+  list-style: none;
+  border-radius: 50%;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px; }
+.section-17 .fa-facebook {
+  background-color: #3b5997;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  padding-top: 7px; }
+.section-17 .fa-twitter {
+  background-color: #3ec2f3;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  padding-top: 7px; }
+.section-17 .fa-linkedin {
+  background-color: #0e76a8;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  padding-top: 6px; }
+.section-17 .fa-instagram {
+  background-color: #3f729b;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  padding-top: 6px; }
+.section-17 .fa-vimeo {
+  background-color: #86c9ef;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  padding-top: 7px; }
+
+.social div {
+  display: inline-block;
+  margin-left: 10px; }
+
 /*# sourceMappingURL=style.css.map */
