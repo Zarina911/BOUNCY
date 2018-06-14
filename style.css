@@ -941,9 +941,45 @@ h1 {
   width: 287px;
   padding-bottom: 30px; }
 
-.left a {
+.left .img_email {
   position: absolute;
   top: 20%;
   left: 35%; }
+.left .img_office {
+  position: absolute;
+  top: 14%;
+  left: 35%; }
+.left .img_phone {
+  position: absolute;
+  top: 16%;
+  left: 35%; }
+
+.one {
+  padding-top: 80px;
+  padding-bottom: 130px; }
+
+.form-inline {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 0; }
+
+.form-inline .form-control {
+  border-radius: 0;
+  width: 350px;
+  height: 41px;
+  margin-bottom: 30px; }
+
+.row textarea {
+  border-radius: 0;
+  margin-bottom: 30px;
+  resize: none; }
+
+.btn {
+  height: 55px;
+  border-radius: 0;
+  font-size: 16px;
+  font-family: 'OpenSans', sans-serif;
+  text-transform: uppercase; }
 
 /*# sourceMappingURL=style.css.map */
