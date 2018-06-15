@@ -986,13 +986,27 @@ h1 {
   overflow: hidden;
   position: relative;
   height: 500px; }
-
-iframe {
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 100%; }
+  .map iframe {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%; }
+  .map :after {
+    content: "Find us on the map ";
+    color: #ffffff;
+    background-color: #000000;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 16px;
+    display: block;
+    opacity: 0.8;
+    padding-top: 250px; }
 
 .section-17 {
   background-color: #f3f3f3;

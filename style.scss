@@ -816,7 +816,8 @@ h1 {
   }
 }
 
-//SECTION 8
+//SECTION 8 не получается progress bar как на макете
+
 .section-8 {
   .carousel-inner {
 
@@ -1275,23 +1276,48 @@ h1 {
   text-transform: uppercase;
 }
 
-//SECTION 16 MAP
+//SECTION 16 MAP не получается сделать карту как в макете
 
 .map {
   overflow: hidden;
   position: relative;
   height: 500px;
-}
-
 iframe {
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 100%;
-}
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+  }
+ :after {
+   content: "Find us on the map ";
+   color: #ffffff;
+   background-color: #000000;
+   left: 0;
+   top: 0;
+   height: 100%;
+   width: 100%;
+   position: absolute;
+   text-transform: uppercase;
+   text-align: center;
+   font-size: 16px;
+   display: block;
+   opacity: 0.8;
+   padding-top: 250px;
+ }
 
-//SECTION 17
+}
+//  .map::after{
+//    content: ">";
+//    transform: rotate(90deg);
+//  }
+//
+//  :after:hover  {
+//    background-color: transparent;
+//  }
+//}
+
+  //SECTION 17
 .section-17 {
   background-color: #f3f3f3;
   padding-bottom: 90px;
@@ -1355,6 +1381,7 @@ iframe {
     padding-top: 7px;
   }
 }
+
 .social div {
   display: inline-block;
   margin-left: 10px;

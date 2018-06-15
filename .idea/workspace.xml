@@ -4,6 +4,7 @@
     <list default="true" id="a1582acd-6566-483c-ac9d-477750e76c56" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css.map" afterPath="$PROJECT_DIR$/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
     </list>
@@ -19,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="684" column="0" lean-forward="false" selection-start-line="684" selection-start-column="0" selection-end-line="684" selection-end-column="0" />
+            <state relative-caret-position="674">
+              <caret line="716" column="18" lean-forward="true" selection-start-line="716" selection-start-column="18" selection-end-line="716" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -53,7 +54,7 @@
                 <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#section#15;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#15;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,8 +63,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="1318" column="23" lean-forward="true" selection-start-line="1318" selection-start-column="23" selection-end-line="1318" selection-end-column="23" />
+            <state relative-caret-position="-7328">
+              <caret line="818" column="32" lean-forward="true" selection-start-line="818" selection-start-column="32" selection-end-line="818" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -72,11 +73,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="949">
-              <caret line="1051" column="0" lean-forward="true" selection-start-line="1051" selection-start-column="0" selection-end-line="1051" selection-end-column="0" />
+            <state relative-caret-position="17510">
+              <caret line="1030" column="70" lean-forward="false" selection-start-line="1030" selection-start-column="70" selection-end-line="1030" selection-end-column="70" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#section#14;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1528229425646" expanded="true" signature="640:744" ph="..." />
                 <marker date="1528229425646" expanded="true" signature="647:677" ph="{...}" />
                 <marker date="1528229425646" expanded="true" signature="706:737" ph="{...}" />
@@ -88,8 +88,8 @@
       <file leaf-file-name="last_blocks_footer.scss" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+            <state relative-caret-position="3451">
+              <caret line="203" column="3" lean-forward="false" selection-start-line="203" selection-start-column="3" selection-end-line="203" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -98,7 +98,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../bootstrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
+            <state relative-caret-position="3145">
               <caret line="185" column="44" lean-forward="false" selection-start-line="183" selection-start-column="20" selection-end-line="185" selection-end-column="99" />
               <folding />
             </state>
@@ -108,7 +108,7 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../bootstrap/css/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="4641">
               <caret line="273" column="9" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="275" selection-end-column="1" />
               <folding />
             </state>
@@ -147,8 +147,8 @@
         <option value="D:/Загрузки/Final-Project-master/index.html" />
         <option value="$PROJECT_DIR$/../bootstrap/index.html" />
         <option value="$PROJECT_DIR$/../bootstrap/css/dhfh.scss" />
-        <option value="$PROJECT_DIR$/style.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.scss" />
       </list>
     </option>
   </component>
@@ -181,12 +181,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
               <item name="BOUNCY" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOUNCY" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="BOUNCY" type="b2602c69:ProjectViewProjectNode" />
@@ -209,7 +215,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,7 +279,8 @@
       <workItem from="1528572874541" duration="2085000" />
       <workItem from="1528659482054" duration="1333000" />
       <workItem from="1528660930862" duration="13404000" />
-      <workItem from="1528974741050" duration="7440000" />
+      <workItem from="1528974741050" duration="12189000" />
+      <workItem from="1529051901836" duration="507000" />
     </task>
     <task id="LOCAL-00001" summary="работа над ошибками 1й части">
       <created>1527625674927</created>
@@ -381,11 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528982437521</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add  section 16-17///">
+      <created>1528982942453</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528982942453</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152225000" />
+    <option name="totallyTimeSpent" value="157481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -428,7 +441,8 @@
     <MESSAGE value="add  section 14..." />
     <MESSAGE value="add  section 15 forms" />
     <MESSAGE value="add  section 16-17" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  section 16-17" />
+    <MESSAGE value="add  section 16-17///" />
+    <option name="LAST_COMMIT_MESSAGE" value="add  section 16-17///" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -555,11 +569,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/button.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://D:/Загрузки/Final-Project-master/CSS/Costants.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -645,7 +654,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../bootstrap/css/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
+        <state relative-caret-position="4641">
           <caret line="273" column="9" lean-forward="false" selection-start-line="270" selection-start-column="0" selection-end-line="275" selection-end-column="1" />
           <folding />
         </state>
@@ -653,27 +662,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../bootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
+        <state relative-caret-position="3145">
           <caret line="185" column="44" lean-forward="false" selection-start-line="183" selection-start-column="20" selection-end-line="185" selection-end-column="99" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="1318" column="23" lean-forward="true" selection-start-line="1318" selection-start-column="23" selection-end-line="1318" selection-end-column="23" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/button.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://D:/Загрузки/Final-Project-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="949">
-          <caret line="1051" column="0" lean-forward="true" selection-start-line="1051" selection-start-column="0" selection-end-line="1051" selection-end-column="0" />
+        <state relative-caret-position="17510">
+          <caret line="1030" column="70" lean-forward="false" selection-start-line="1030" selection-start-column="70" selection-end-line="1030" selection-end-column="70" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#section#14;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1528229425646" expanded="true" signature="640:744" ph="..." />
             <marker date="1528229425646" expanded="true" signature="647:677" ph="{...}" />
             <marker date="1528229425646" expanded="true" signature="706:737" ph="{...}" />
@@ -683,16 +688,24 @@
     </entry>
     <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="170" column="0" lean-forward="true" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
+        <state relative-caret-position="3451">
+          <caret line="203" column="3" lean-forward="false" selection-start-line="203" selection-start-column="3" selection-end-line="203" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7328">
+          <caret line="818" column="32" lean-forward="true" selection-start-line="818" selection-start-column="32" selection-end-line="818" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="684" column="0" lean-forward="false" selection-start-line="684" selection-start-column="0" selection-end-line="684" selection-end-column="0" />
+        <state relative-caret-position="674">
+          <caret line="716" column="18" lean-forward="true" selection-start-line="716" selection-start-column="18" selection-end-line="716" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -725,7 +738,7 @@
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#section#15;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#15;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
