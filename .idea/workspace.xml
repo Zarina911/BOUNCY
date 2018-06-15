@@ -4,7 +4,6 @@
     <list default="true" id="a1582acd-6566-483c-ac9d-477750e76c56" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css.map" afterPath="$PROJECT_DIR$/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.scss" afterPath="$PROJECT_DIR$/style.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,8 +61,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="1305" column="23" lean-forward="true" selection-start-line="1305" selection-start-column="23" selection-end-line="1305" selection-end-column="23" />
+            <state relative-caret-position="696">
+              <caret line="909" column="18" lean-forward="false" selection-start-line="909" selection-start-column="18" selection-end-line="909" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -279,7 +278,7 @@
       <workItem from="1528659482054" duration="1333000" />
       <workItem from="1528660930862" duration="13404000" />
       <workItem from="1528974741050" duration="12189000" />
-      <workItem from="1529051901836" duration="973000" />
+      <workItem from="1529051901836" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="работа над ошибками 1й части">
       <created>1527625674927</created>
@@ -400,11 +399,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529052475911</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add footer">
+      <created>1529052885835</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1529052885835</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157947000" />
+    <option name="totallyTimeSpent" value="158064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -744,8 +750,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="1305" column="23" lean-forward="true" selection-start-line="1305" selection-start-column="23" selection-end-line="1305" selection-end-column="23" />
+        <state relative-caret-position="696">
+          <caret line="909" column="18" lean-forward="false" selection-start-line="909" selection-start-column="18" selection-end-line="909" selection-end-column="18" />
           <folding />
         </state>
       </provider>
