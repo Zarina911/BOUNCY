@@ -847,7 +847,45 @@ h1 {
       text-align: right;
       margin-top: 30px;
       padding-right: 50px;
-      //добавить progress bar
+    }
+    .progressbar_second{
+      width: 375px;
+      display: block;
+      padding-right: 50px;
+      float: right;
+    }
+    .progressbar{
+      margin-bottom: 35px;
+      font-size: 16px;
+      font-family: 'SourceSansPro', sans-serif;
+      text-transform: uppercase;
+      color: #a3a6ac;
+      position: relative;
+      border-bottom: 4px solid #e1e4e9;
+      .percent{
+      float: right}
+    }
+    .branding::after{
+      content: '';
+      display: block;
+      width: 80%;
+      position: absolute;
+      border-bottom: 4px solid #19bd9a;
+
+    }
+    .design::after{
+      content: '';
+      display: block;
+      width: 65%;
+      position: absolute;
+      border-bottom: 4px solid #19bd9a;
+    }
+    .interface::after{
+      content: '';
+      display: block;
+      width: 65%;
+      position: absolute;
+      border-bottom: 4px solid #19bd9a;
     }
   }
 }
@@ -1276,48 +1314,64 @@ h1 {
   text-transform: uppercase;
 }
 
-//SECTION 16 MAP не получается сделать карту как в макете
+//SECTION 16 MAP
 
-.map {
+.section-16 {
   overflow: hidden;
   position: relative;
-  height: 500px;
-iframe {
+
+  iframe {
     position: absolute;
     left: 0;
     top: 0;
     height: 100%;
     width: 100%;
   }
- //:after {
- //  content: "Find us on the map ";
- //  color: #ffffff;
- //  background-color: #000000;
- //  left: 0;
- //  top: 0;
- //  height: 100%;
- //  width: 100%;
- //  position: absolute;
- //  text-transform: uppercase;
- //  text-align: center;
- //  font-size: 16px;
- //  display: block;
- //  opacity: 0.8;
- //  padding-top: 250px;
- //}
-
 }
-//  .map::after{
-//    content: ">";
-//    transform: rotate(90deg);
-//  }
-//
-//  :after:hover  {
-//    background-color: transparent;
-//  }
-//}
+
+.contact_map {
+  height: 500px;
+  position: relative;
+}
+
+.map {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.text_2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 16px;
+  display: block;
+  padding-top: 250px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #ffffff;
+  cursor: pointer;
+}
+.button_bottom {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  top: 50%;
+  left: 55%;
+  background: url(images/button_bottom.png) no-repeat;
+  display: block;
+  cursor: pointer;
+}
 
   //SECTION 17
+
 .section-17 {
   background-color: #f3f3f3;
   padding-bottom: 90px;
