@@ -1340,7 +1340,7 @@ h1 {
   top: 0;
   right: 0;
   bottom: 0;
-  z-index: 0;
+  z-index: 1;
 }
 
 .text_2 {
@@ -1349,7 +1349,7 @@ h1 {
   top: 0;
   height: 100%;
   width: 100%;
-  z-index: 1;
+  z-index: 2;
   text-transform: uppercase;
   text-align: center;
   font-size: 16px;
@@ -1359,6 +1359,7 @@ h1 {
   color: #ffffff;
   cursor: pointer;
 }
+
 .button_bottom {
   width: 18px;
   height: 18px;
