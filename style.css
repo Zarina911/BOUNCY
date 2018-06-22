@@ -18,10 +18,10 @@ header {
   position: absolute; }
 
 .navbar-toggle .icon-bar {
-  background-color: #000; }
+  background-color: #000000; }
 
 .navbar-toggle {
-  border: solid 1px #000; }
+  border: solid 1px #000000; }
 
 .navbar-nav > li > a {
   font-size: 14px; }
@@ -563,7 +563,7 @@ h1 {
   display: block;
   width: 100%;
   height: auto;
-  background-color: #fff; }
+  background-color: #ffffff; }
 
 .mosaicflow__item img:hover {
   opacity: 0.6;
