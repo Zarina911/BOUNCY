@@ -1043,6 +1043,7 @@ h1 {
   background-color: #f3f3f3;
 }
 
+
 .section-12 {
   .price {
     font-size: 20px;
@@ -1062,6 +1063,10 @@ h1 {
     padding-bottom: 60px;
     text-align: center;
   }
+  ol, ul {
+    margin-top: 0;
+    margin-bottom: 44px;
+  }
 }
 
 .our_price {
@@ -1069,6 +1074,7 @@ h1 {
 }
 
 .our_price ul > li {
+
   list-style: none;
   width: 235px;
   margin: 0;
@@ -1102,11 +1108,11 @@ h1 {
     font-family: 'OpenSans', sans-serif;
     color: #81868e;
     line-height: 1.4;
-    padding-bottom: 108px;
+    padding-bottom: 100px;
 
   }
   a {
-    padding: 30px 60px;
+    padding: 30px 59px;
     background-color: #19bd9a;
     color: #ffffff;
     font-weight: bold;
@@ -1125,16 +1131,18 @@ h1 {
 }
 
 .column_2 {
+
   li:first-child {
-    padding: 35px;
+    padding: 30px 30px 35px 30px;
     font-size: 14px;
     font-family: 'OpenSans', sans-serif;
     color: #81868e;
     line-height: 2.2;
     width: 238px;
+
   }
   li:last-child {
-    padding-top: 30px;
+    padding-top: 27px;
   }
 }
 
@@ -1231,6 +1239,12 @@ h1 {
   color: #81868e;
   font-size: 16px;
   position: relative;
+  display: flex;
+  justify-content: space-between;
+  @media (max-width: 1200px) {
+    float: none;
+    font-size: 14px;
+  }
 }
 
 .contact {
@@ -1248,6 +1262,7 @@ h1 {
     background-color: #ffffff;
     width: 287px;
     padding-bottom: 30px;
+
   }
 }
 
@@ -1255,17 +1270,17 @@ h1 {
   .img_email {
     position: absolute;
     top: 20%;
-    left: 35%;
+    left: 43%;
   }
   .img_office {
     position: absolute;
     top: 14%;
-    left: 35%;
+    left: 45%;
   }
   .img_phone {
     position: absolute;
     top: 16%;
-    left: 35%;
+    left: 43%;
   }
 }
 
@@ -1288,6 +1303,9 @@ h1 {
   width: 350px;
   height: 41px;
   margin-bottom: 30px;
+  @media (max-width: 1170px) {
+    vertical-align: middle;
+  }
 }
 
 .row textarea {

@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9747">
-              <caret line="104" column="100" lean-forward="false" selection-start-line="104" selection-start-column="100" selection-end-line="104" selection-end-column="100" />
+            <state relative-caret-position="419">
+              <caret line="656" column="24" lean-forward="false" selection-start-line="656" selection-start-column="24" selection-end-line="656" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -60,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9832">
-              <caret line="808" column="11" lean-forward="false" selection-start-line="808" selection-start-column="11" selection-end-line="808" selection-end-column="11" />
+            <state relative-caret-position="378">
+              <caret line="1306" column="27" lean-forward="false" selection-start-line="1306" selection-start-column="27" selection-end-line="1306" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -89,8 +89,8 @@
       <file leaf-file-name="last_blocks_footer.scss" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3451">
-              <caret line="203" column="3" lean-forward="false" selection-start-line="203" selection-start-column="3" selection-end-line="203" selection-end-column="3" />
+            <state relative-caret-position="3655">
+              <caret line="215" column="20" lean-forward="false" selection-start-line="215" selection-start-column="20" selection-end-line="215" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -258,7 +258,9 @@
       <workItem from="1529051901836" duration="22462000" />
       <workItem from="1529611306103" duration="32000" />
       <workItem from="1529611367961" duration="1748000" />
-      <workItem from="1529658049077" duration="1827000" />
+      <workItem from="1529658049077" duration="3840000" />
+      <workItem from="1529829043513" duration="605000" />
+      <workItem from="1529907058751" duration="6203000" />
     </task>
     <task id="LOCAL-00001" summary="работа над ошибками 1й части">
       <created>1527625674927</created>
@@ -414,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529615995195</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add work on bugs">
+      <created>1529660801550</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1529660801550</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183043000" />
+    <option name="totallyTimeSpent" value="191864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -465,7 +474,8 @@
     <MESSAGE value="add footer" />
     <MESSAGE value="add progressbar" />
     <MESSAGE value="add map" />
-    <option name="LAST_COMMIT_MESSAGE" value="add map" />
+    <MESSAGE value="add work on bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add work on bugs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -766,27 +776,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html" />
     <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3451">
-          <caret line="203" column="3" lean-forward="false" selection-start-line="203" selection-start-column="3" selection-end-line="203" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html" />
-    <entry file="file://$PROJECT_DIR$/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9832">
-          <caret line="808" column="11" lean-forward="false" selection-start-line="808" selection-start-column="11" selection-end-line="808" selection-end-column="11" />
+        <state relative-caret-position="3655">
+          <caret line="215" column="20" lean-forward="false" selection-start-line="215" selection-start-column="20" selection-end-line="215" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9747">
-          <caret line="104" column="100" lean-forward="false" selection-start-line="104" selection-start-column="100" selection-end-line="104" selection-end-column="100" />
+        <state relative-caret-position="419">
+          <caret line="656" column="24" lean-forward="false" selection-start-line="656" selection-start-column="24" selection-end-line="656" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -821,6 +823,14 @@
             <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#span#0;n#div#0;n#div#0;n#div#0;n#section#15;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="1306" column="27" lean-forward="false" selection-start-line="1306" selection-start-column="27" selection-end-line="1306" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
