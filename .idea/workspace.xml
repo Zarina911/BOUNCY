@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="656" column="24" lean-forward="false" selection-start-line="656" selection-start-column="24" selection-end-line="656" selection-end-column="24" />
+            <state relative-caret-position="436">
+              <caret line="668" column="59" lean-forward="false" selection-start-line="668" selection-start-column="59" selection-end-line="668" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -63,8 +63,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="1306" column="27" lean-forward="false" selection-start-line="1306" selection-start-column="27" selection-end-line="1306" selection-end-column="27" />
+            <state relative-caret-position="395">
+              <caret line="1298" column="5" lean-forward="true" selection-start-line="1298" selection-start-column="5" selection-end-line="1298" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -73,8 +73,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17408">
-              <caret line="1024" column="0" lean-forward="false" selection-start-line="1024" selection-start-column="0" selection-end-line="1024" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="1017" column="52" lean-forward="false" selection-start-line="1017" selection-start-column="52" selection-end-line="1017" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#section#14;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -89,8 +89,8 @@
       <file leaf-file-name="last_blocks_footer.scss" pinned="false" current-in-tab="false">
         <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3655">
-              <caret line="215" column="20" lean-forward="false" selection-start-line="215" selection-start-column="20" selection-end-line="215" selection-end-column="20" />
+            <state relative-caret-position="-329">
+              <caret line="135" column="17" lean-forward="true" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -162,6 +162,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,7 +190,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +260,8 @@
       <workItem from="1529611367961" duration="1748000" />
       <workItem from="1529658049077" duration="3840000" />
       <workItem from="1529829043513" duration="605000" />
-      <workItem from="1529907058751" duration="6203000" />
+      <workItem from="1529907058751" duration="6290000" />
+      <workItem from="1530617150034" duration="3492000" />
     </task>
     <task id="LOCAL-00001" summary="работа над ошибками 1й части">
       <created>1527625674927</created>
@@ -423,16 +424,23 @@
       <option name="project" value="LOCAL" />
       <updated>1529660801550</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add ...">
+      <created>1530304285255</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1530304285255</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191864000" />
+    <option name="totallyTimeSpent" value="195443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -475,7 +483,8 @@
     <MESSAGE value="add progressbar" />
     <MESSAGE value="add map" />
     <MESSAGE value="add work on bugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add work on bugs" />
+    <MESSAGE value="add ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="add ..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -762,10 +771,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html" />
+    <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-329">
+          <caret line="135" column="17" lean-forward="true" selection-start-line="135" selection-start-column="17" selection-end-line="135" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://D:/Загрузки/Final-Project-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17408">
-          <caret line="1024" column="0" lean-forward="false" selection-start-line="1024" selection-start-column="0" selection-end-line="1024" selection-end-column="0" />
+        <state relative-caret-position="612">
+          <caret line="1017" column="52" lean-forward="false" selection-start-line="1017" selection-start-column="52" selection-end-line="1017" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#section#14;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -776,19 +794,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html" />
-    <entry file="file://D:/Загрузки/Final-Project-master/CSS/last_blocks_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3655">
-          <caret line="215" column="20" lean-forward="false" selection-start-line="215" selection-start-column="20" selection-end-line="215" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="656" column="24" lean-forward="false" selection-start-line="656" selection-start-column="24" selection-end-line="656" selection-end-column="24" />
+        <state relative-caret-position="436">
+          <caret line="668" column="59" lean-forward="false" selection-start-line="668" selection-start-column="59" selection-end-line="668" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#strong#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#strong#1;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -828,8 +837,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="1306" column="27" lean-forward="false" selection-start-line="1306" selection-start-column="27" selection-end-line="1306" selection-end-column="27" />
+        <state relative-caret-position="395">
+          <caret line="1298" column="5" lean-forward="true" selection-start-line="1298" selection-start-column="5" selection-end-line="1298" selection-end-column="5" />
           <folding />
         </state>
       </provider>

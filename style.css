@@ -996,15 +996,13 @@ h1 {
   top: 16%;
   left: 43%; }
 
-.one {
-  padding-top: 80px;
-  padding-bottom: 130px; }
+.section-15 {
+  padding: 80px 0 130px; }
 
 .form-inline {
   display: flex;
-  flex-wrap: nowrap;
   justify-content: space-between;
-  padding: 0; }
+  margin-left: -15px; }
 
 .form-inline .form-control {
   border-radius: 0;
